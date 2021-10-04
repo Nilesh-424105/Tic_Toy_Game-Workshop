@@ -5,6 +5,7 @@ public class TicTacToyGame {
 	public static char[] element;
 
 	public static void main(String[] args) {
+		System.out.println("Welcome to Tic Tac Toy Game");
 		// TO call a Method in Main method
 		boardCreation();
 
